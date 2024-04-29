@@ -20,3 +20,6 @@ facilitating better collaboration among developers. Overall, leveraging Riverpod
  The friendly user interface allows them to easily customize each counter with a unique name, starting value, and color scheme, ensuring that the app reflects their preferences and needs accurately.
 
  ![Screenshot_1714396333](https://github.com/itmr97/Counters/assets/40148242/89bc3d83-3fc0-42fd-ac75-78c42c71c74b)  ![Screenshot_1714396331](https://github.com/itmr97/Counters/assets/40148242/d9556f8d-f7ee-44cc-9b8b-4f179b63587e)   ![Screenshot_1714396342](https://github.com/itmr97/Counters/assets/40148242/a2044b5a-ce10-43c8-b07c-b9b50fbb8c2f)
+
+application features a responsive design that automatically adjusts its layout and appearance based on the device it's running on, 
+whether it's a mobile phone, tablet, or desktop computer. This ensures optimal user experience across different screen sizes and devices.
