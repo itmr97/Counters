@@ -1,4 +1,4 @@
-Flutter application sounds straightforward and practical. It's essentially a multi-counter app where users can add as many counters as they need.
+Flutter application straightforward and practical. It's essentially a multi-counter app where users can add as many counters as they need.
 Each counter has two buttons—one to increase the number and another to decrease it. So, users can easily track and modify multiple counts.
 
 ![Screenshot_1714396313](https://github.com/itmr97/Counters/assets/40148242/0b2b4d0f-292e-4b29-bed3-1a658afc9456)
